@@ -1,17 +1,33 @@
-### Hi there 👋, my name is Marof
-#### I am learning Embedded System 
-![I am learning Embedded System ](https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/281652446_312993584354005_4929749603402576778_n.jpg?_nc_cat=105&ccb=1-6&_nc_sid=730e14&_nc_ohc=dIaPvDDTDtMAX9X22l1&_nc_ht=scontent.fdac138-1.fna&oh=00_AT8S4-luRrk5LB9FQYmpWNSBn1wtDBdKeyf5GNzpL0hdyQ&oe=628914A3)
+# Hi there, I'm Marof 👋
 
-I know how to program 8051, AVR microcontroller and how to simulate this program on Proteus. I am Learning IoT with Project. I am very much comfortable working on open-source tools like Arduino.
+I'm a passionate software engineer specializing in Python backend development with a strong foundation in building robust and scalable web applications. My expertise spans across various frameworks and tools, enabling me to deliver efficient and high-performing solutions. Additionally, I have a growing interest and experience in machine learning and embedded systems.
 
-Skills: C, Embedded C, Proteus, Arduino, Avr and 8051 Microcontroller, IoT
+## 🛠️ Technologies & Tools
+- **Languages**: Python
+- **Frameworks**: Django, Django REST Framework, FastAPI
+- **Containerization**: Docker
+- **Orchestration**: Kubernetes
+- **Storage**: Basic MinIO
+- **Search**: Elasticsearch
+- **Embedded Systems**: Experience with hardware-software integration
 
-- 🔭 I’m currently working on my self. 
-- 🌱 I’m currently learning IoT, Embedded System ,LoRa ,MQTT 
-- 🤔 I’m looking for help with my learning  
-- 💬 Ask me about Arduino , Avr atMega328p Microcontroller 
-- 📫 How to reach me: marof.seu@gmail.com 
+## 🔧 What I Do
+- Develop and maintain backend services using Django, Django REST Framework, and FastAPI.
+- Containerize applications with Docker for consistent and reproducible deployments.
+- Orchestrate containers using Kubernetes for scalable and reliable service management.
+- Integrate Elasticsearch for advanced search capabilities.
+- Utilize MinIO for object storage solutions.
+- Work on embedded systems projects, integrating hardware and software components.
+- Analyze, fine-tune, and deploy machine learning models.
 
+## 🌱 I’m currently learning
+- Advanced MinIO for more complex storage solutions.
+- Enhancing my knowledge of Elasticsearch for better search optimization.
+- Machine learning techniques for analysis, model fine-tuning, and data collection.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/marofES)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/marof20//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCxFs8ZHraI-SgVMKcG8oOeQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/https://www.reddit.com/user/arduino_blink24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/quora.svg' alt='quora' height='40'>](https://www.quora.com/profile/Marof)  
+## 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/)
+- [Email](mailto:your.email@example.com)
 
+## ⚡ Fun fact
+I enjoy solving complex problems and constantly learning new technologies to improve my skill set.
