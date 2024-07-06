@@ -26,8 +26,8 @@ I'm a passionate software engineer specializing in Python backend development wi
 - Machine learning techniques for analysis, model fine-tuning, and data collection.
 
 ## 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/)
-- [Email](mailto:your.email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/marof20)
+- [Email](mailto:marof.seu@gmail.com)
 
 ## ⚡ Fun fact
 I enjoy solving complex problems and constantly learning new technologies to improve my skill set.
