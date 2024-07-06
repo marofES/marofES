@@ -4,7 +4,8 @@ Welcome to my corner of GitHub! I'm Marof, a software engineer with a deep passi
 
 ## 🛠️ My Tech Arsenal
 - **Languages**: Python
-- **Frameworks**: Django, Django REST Framework, FastAPI
+- **Frameworks**: Django, Django REST Framework, FastAPI, AIOHTTP
+- **Database Management**: PostgreSQL, MySQL 
 - **Containerization**: Docker
 - **Orchestration**: Kubernetes
 - **Storage**: MinIO (basic)
